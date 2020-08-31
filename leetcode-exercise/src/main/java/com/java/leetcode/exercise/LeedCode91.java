@@ -1,5 +1,5 @@
 package com.java.leetcode.exercise;
 
-public class leetCode67 {
+public class LeedCode91 {
 
 }
